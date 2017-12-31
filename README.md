@@ -1,4 +1,13 @@
 # Korean Drama Recommendation
 
-Korean dramas or K-drama has become extremely popular and influential.
-This git tries to explore the dataset available on Korean dramas and to extract features to recommend dramas for you. 
+This repository explores data on Korean dramas and applies a simple content-based recommender. 
+### Part 1
+Data exploration
+
+### Part 2
+Content-based recommendation
+
+## Future works
+* Complete recommendation
+* Enhance dataset robustness
+* Prepare English version
