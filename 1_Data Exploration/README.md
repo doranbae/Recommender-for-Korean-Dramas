@@ -1,8 +1,8 @@
 # Korean Drama Data Exploration
 
 ## Data source
-Wikipedia (Korean version)
+* Wikipedia (Korean version)
 
 ## Future works
-User review (blogs, movie review sites)
-Wikipedia (English version)
+* User review (blogs, movie review sites)
+* Wikipedia (English version)
